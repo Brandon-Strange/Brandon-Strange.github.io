@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Sampling density and date along with species selection influence spatial representation of tree-ring reconstructions"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper examines the influence of spatial density and temporal span on the accuracy tree ring based reconstructions.'
+date: 2020-10-19
+venue: 'Climate of the Past'
+paperurl: 'https://cp.copernicus.org/articles/16/1901/2020/cp-16-1901-2020-discussion.html'
+citation: 'Maxwell, J. T., Harley, G. L., Matheus, T. J., Strange, B. M., Van Aken, K., Au, T. F., & Bregy, J. C. (2020). Sampling density and date along with species selection influence spatial representation of tree-ring reconstructions. Climate of the Past, 16(5), 1901-1916.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
